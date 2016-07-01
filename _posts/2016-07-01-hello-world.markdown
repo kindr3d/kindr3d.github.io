@@ -21,12 +21,12 @@ Today is the first day of our RGSoC programm, our first imperfectly shaped panca
 <strong>Learning Prios</strong>
 
 <ul>
-<li>overall js throughout three months (eloquent js, https://addyosmani.com/resources/essentialjsdesignpatterns/book/, https://github.com/getify/You-Dont-Know-JS )</li>
+<li>overall JS throughout three months (eloquent js, https://addyosmani.com/resources/essentialjsdesignpatterns/book/, https://github.com/getify/You-Dont-Know-JS )</li>
 <li>ember.js (http://emberigniter.com, https://www.codeschool.com/courses/try-ember, http://www.programwitherik.com/top-5-best-resources-for-ember-js/)</li>
 <li>RoR active record (http://guides.rubyonrails.org/active_record_basics.html, http://guides.rubyonrails.org/active_record_querying.html)</li>
 <li>d3.js/c3.js (http://alignedleft.com/tutorials/d3, https://square.github.io/intro-to-d3/, https://github.com/d3/d3/wiki/Tutorials, )</li>
 <li>in depth git (https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)</li>
-<li>Ruby ( https://pine.fm/LearnToProgram/ , http://learnrubythehardway.org/book/)</li>
+<li>Ruby ( https://pine.fm/LearnToProgram/, http://learnrubythehardway.org/book/)</li>
 </ul>
 
 
