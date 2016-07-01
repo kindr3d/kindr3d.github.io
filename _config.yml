@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kindr3d.github.io
+title: kindr3d
+email: 
+author: kindr3d
+description: Follow us on our journey through RGSoC
+paginate: 5
+google_analytics: 
