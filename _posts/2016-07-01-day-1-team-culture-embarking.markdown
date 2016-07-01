@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Day 1: Team Culture & Embarking
 layout: post
 ---
