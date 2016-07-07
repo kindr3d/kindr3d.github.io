@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kindr3d</title>
+    <description>Follow us on our journey through RGSoC</description>
+    <link>http://kindr3d.github.io/</link>
+    <atom:link href="http://kindr3d.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>What is kindr3d?</title>
+        <description>&lt;p&gt;Today is the first day of our RGSoC programm, our first imperfectly shaped pancake. To make our journey smoother we decided to first talk about how we want things to be. Further you will find our first draft of code of conduct, we hope that it is going to be revised many times preserving our core values but including values of the rest of our team.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;kindr3d Group Culture&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;relaxed and fun atmosphere&lt;/li&gt;
+&lt;li&gt;free-time for ourselves + together&lt;/li&gt;
+&lt;li&gt;take breaks and time off when you need them&lt;/li&gt;
+&lt;li&gt;open discussions about issues/personal conflicts&lt;/li&gt;
+&lt;li&gt;learning is more important than results &lt;/li&gt;
+&lt;li&gt;structured but flexible schedule&lt;/li&gt;
+&lt;li&gt;exercise &amp;amp; meditation breaks&lt;/li&gt;
+&lt;li&gt;there are no stupid questions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Prios&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;overall JS throughout three months (eloquent js, https://addyosmani.com/resources/essentialjsdesignpatterns/book/, https://github.com/getify/You-Dont-Know-JS )&lt;/li&gt;
+&lt;li&gt;ember.js (http://emberigniter.com, https://www.codeschool.com/courses/try-ember, http://www.programwitherik.com/top-5-best-resources-for-ember-js/)&lt;/li&gt;
+&lt;li&gt;RoR active record (http://guides.rubyonrails.org/active_record_basics.html, http://guides.rubyonrails.org/active_record_querying.html)&lt;/li&gt;
+&lt;li&gt;d3.js/c3.js (http://alignedleft.com/tutorials/d3, https://square.github.io/intro-to-d3/, https://github.com/d3/d3/wiki/Tutorials, )&lt;/li&gt;
+&lt;li&gt;in depth git (https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)&lt;/li&gt;
+&lt;li&gt;Ruby ( https://pine.fm/LearnToProgram/, http://learnrubythehardway.org/book/)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Daily Plan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;morning stand up/ check in / review session&lt;/li&gt;
+&lt;li&gt;end of the day log and conclusions&lt;/li&gt;
+&lt;li&gt;attempt tp work on our sandbox book club for a short time to apply what we&#39;ve learnt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Weekly Plan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;learning &amp;amp; sharing: discuss something we read together (bookclub), tutorial (learn one thing each week)&lt;/li&gt;
+&lt;li&gt;meeting with coaches and supervisor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Monthly Plan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;team meet up and overall result discussions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://kindr3d.github.io/2016/07/01/hello-world.html</link>
+        <guid isPermaLink="true">http://kindr3d.github.io/2016/07/01/hello-world.html</guid>
+      </item>
+    
+  </channel>
+</rss>

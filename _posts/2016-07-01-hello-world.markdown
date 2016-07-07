@@ -2,8 +2,12 @@
 published: true
 title: What is kindr3d?
 layout: post
+excerpt: Today is the first day of our RGSoC programm, our first imperfectly shaped pancake. To make our journey smoother we decided to first talk about how we want things to be. Further you will find our first draft of code of conduct, we hope that it is going to be revised many times preserving our core values but including values of the rest of our team.
+
+
 ---
-Today is the first day of our RGSoC programm, our first imperfectly shaped pancake. To make our journey smoother we decided to first talk about how we want things to be. Further you will find our first draft of code of conduct, we hope that it is going to be revised many times preserving our core values but including values of the rest of our team. 
+
+Today is the first day of our RGSoC programm, our first imperfectly shaped pancake. To make our journey smoother we decided to first talk about how we want things to be. Further you will find our first draft of code of conduct, we hope that it is going to be revised many times preserving our core values but including values of the rest of our team.
 
 <strong>kindr3d Group Culture</strong>
 
