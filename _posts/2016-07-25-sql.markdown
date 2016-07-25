@@ -1,0 +1,17 @@
+---
+published: false
+title: SQL
+layout: post
+---
+This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet:
+
+![SQL Cheat Sheet]({{ site.url }}/assets/sql1.jpg)
+
+![SQL Cheat Sheet 2]({{ site.url }}/assets/sql2.jpg)
+
+We learned for instance, that $ can be used to form string constants in SQL to build monstrosities like 
+
+``` sql
+$Here's what I call "having a good time"$
+```
+Our lives will never be the same again.
