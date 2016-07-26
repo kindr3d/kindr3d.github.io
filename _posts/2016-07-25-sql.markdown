@@ -2,7 +2,7 @@
 published: true
 title: SQL
 layout: post
-excerpt:  This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet
+excerpt:  This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet.
 ---
 This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet:
 
