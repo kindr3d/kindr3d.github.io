@@ -2,6 +2,7 @@
 published: true
 title: SQL
 layout: post
+excerpt:  This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet
 ---
 This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet:
 
@@ -9,7 +10,7 @@ This week we are exploring the discourse database and learning about SQL. We did
 
 ![SQL Cheat Sheet 2]({{ site.url }}/assets/sql2.jpg)
 
-We learned for instance, that $ can be used to form string constants in SQL to build monstrosities like 
+We learned for instance, that $ can be used to form string constants in SQL to build monstrosities like
 
 ``` sql
 $Here's what I call "having a good time"$
