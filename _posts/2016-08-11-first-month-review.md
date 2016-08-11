@@ -1,7 +1,7 @@
 ---
 layout: post
 title: first month review
-excerpt: everyone.
+excerpt: ![Team together again]({{ site.url }}/assets/kickoff_call2.png)
 ---
 
 ![Team together again]({{ site.url }}/assets/kickoff_call2.png)
