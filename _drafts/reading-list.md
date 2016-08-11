@@ -1,4 +1,4 @@
 ---
 layout: post
-title: reading-list
+title: reading list
 ---

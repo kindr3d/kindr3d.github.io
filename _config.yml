@@ -5,5 +5,4 @@ email:
 author: kindr3d
 description: Follow us on our journey through RGSoC
 paginate: 5
-gems: [jekyll-paginate]
 google_analytics:

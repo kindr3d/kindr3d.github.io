@@ -7,6 +7,85 @@
     <atom:link href="http://kindr3d.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>first month review</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://kindr3d.github.io/assets/1-month-call.png&quot; alt=&quot;Team together again&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh, boy! One month has already passed!&lt;/p&gt;
+
+&lt;p&gt;Last week we had our monthly hangout with coaches, mentor and supervisor. Everyone seemed pretty happy with the progress, although we as a team still feel slightly underwhelmed by the lack of concrete results from our learning. Max and Robin encouraged us by saying that the pace was just right. In order to feel better about ourselves, we made a retrospect of the things we have done in July and indeed, much has been achieved:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Discourse
+    &lt;ul&gt;
+      &lt;li&gt;installation (which took us a really long time)&lt;/li&gt;
+      &lt;li&gt;existing report models and its JSON endpoint&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Explored databases
+    &lt;ul&gt;
+      &lt;li&gt;SQL + Postgres&lt;/li&gt;
+      &lt;li&gt;Active Record (Conventions, Migrations, Associations, Query Interface)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;General Internet knowledge
+    &lt;ul&gt;
+      &lt;li&gt;HTTP requests / states&lt;/li&gt;
+      &lt;li&gt;JSON and serializers&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We did a lot of learning on learning and we keep on reading regularly. We are currently going through &lt;a href=&quot;https://en.wikipedia.org/wiki/Code_Complete&quot;&gt;Code Complete&lt;/a&gt; and have been getting some mind-blowing insights on software development process. Working in Namics has also been very enlightening.&lt;/p&gt;
+
+&lt;p&gt;Our current goals, which borrow from our mentors curriculum, are aimed on getting more code written:&lt;/p&gt;
+
+&lt;p&gt;First steps is to &lt;strong&gt;visualize JSONs with d3&lt;/strong&gt; (a nice way to both go through javascript and graphic libraries), after that we need to &lt;strong&gt;identify the exact scope of our contribution to the admin reports module&lt;/strong&gt;. Depending on that our workload will change (we also don’t know if we have to actually come up with a redesign of the admin dashboard). From there we would move naturally to &lt;strong&gt;sending pull requests&lt;/strong&gt; to the discourse project.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Aug 2016 00:00:00 +0200</pubDate>
+        <link>http://kindr3d.github.io/2016/08/11/first-month-review.html</link>
+        <guid isPermaLink="true">http://kindr3d.github.io/2016/08/11/first-month-review.html</guid>
+      </item>
+    
+      <item>
+        <title>SQL</title>
+        <description>&lt;p&gt;This week we are exploring the discourse database and learning about SQL. We did a little review on the most important things so far and made a cheat sheet:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kindr3d.github.io/assets/sql1.jpg&quot; alt=&quot;SQL Cheat Sheet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kindr3d.github.io/assets/sql2.jpg&quot; alt=&quot;SQL Cheat Sheet 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We learned for instance, that $ can be used to form string constants in SQL to build monstrosities like&lt;/p&gt;
+
+&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Here&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;s what I call &quot;having a good time&quot;$
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Our lives will never be the same again.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://kindr3d.github.io/2016/07/25/sql.html</link>
+        <guid isPermaLink="true">http://kindr3d.github.io/2016/07/25/sql.html</guid>
+      </item>
+    
+      <item>
+        <title>First week conclusions</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://kindr3d.github.io/assets/kickoff_call.png&quot; alt=&quot;Team together&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It has been a week since we’ve started the program. On Monday, we got acquainted with our mentoring company Namics. Vincent dropped by at his old company to welcome us together with the other coaches. We had a really in depth conversation on the status quo of the industry and the what it means to be a programmer. Nino introduced us to ember and MVC thinking (and how no one seems to agree exactly how they relate). It was nice to see the level of involvement in everyone.&lt;/p&gt;
+
+&lt;p&gt;Namics people are lovely and the office is really welcoming: they made sure we get a seat right beside Max and Nino and we have unlimited amount of coffee and fruit at our disposal.&lt;/p&gt;
+
+&lt;p&gt;Our kick-off call finally took place on friday afternoon and everyone (including supervisor Max and mentor Robin) was at last united! As expected the call answered a lot of questions and put us back on the track.&lt;/p&gt;
+
+&lt;p&gt;Robin was kind enough to create a project curriculum to guide us through the summer. We also have plenty of community input from meta.discurse members. This is our plan for this week: setting up our own discourse database and playing around with it, as well as filling in the blanks in d3/ember knowledge via our sandbox/bookclub app. This should give us enough momentum and help identify the final scope of our work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kindr3d.github.io/assets/Screenshotmeta.png&quot; alt=&quot;Community input&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jul 2016 00:00:00 +0200</pubDate>
+        <link>http://kindr3d.github.io/2016/07/11/first-week-conclusions.html</link>
+        <guid isPermaLink="true">http://kindr3d.github.io/2016/07/11/first-week-conclusions.html</guid>
+      </item>
+    
+      <item>
         <title>What is kindr3d?</title>
         <description>&lt;p&gt;Today is the first day of our RGSoC programm, our first imperfectly shaped pancake. To make our journey smoother we decided to first talk about how we want things to be. Further you will find our first draft of code of conduct, we hope that it is going to be revised many times preserving our core values but including values of the rest of our team.&lt;/p&gt;
 
