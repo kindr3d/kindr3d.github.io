@@ -4,7 +4,7 @@ title: safe arrival
 excerpt: it’s time to celebrate and look back into our wonderful journey
 ---
 
-[it’s time to celebrate and look back into our wonderful journey]((http://www.dragondreaming.org/dragondreaming/what-is-it-exactly/celebrating/))
+it’s time to celebrate and look back into our wonderful journey
 
 First of all we are feeling very lucky to have those three month at our disposal for learning, communicating and building things. We suddenly became a part of the big community of people who care about each other and are ready to give their time to help someone else join them. It is very humbling to meet so many great and generous people.
 
